@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "custom_playbook_repo"
+name = "custom_actions"
 version = "0.0.1"
 description = ""
 authors = ["bala <bbalakriz@users.noreply.github.com>"]
